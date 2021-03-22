@@ -1,0 +1,31 @@
+{
+  "name": "express_crash_course",
+  "version": "1.0.0",
+  "description": "Express crash course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayakrishnandingit/express_crash_course.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "tutorial"
+  ],
+  "author": "jayakrishnandamodaran@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayakrishnandingit/express_crash_course/issues"
+  },
+  "homepage": "https://github.com/jayakrishnandingit/express_crash_course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
